@@ -1,25 +1,21 @@
+import { useContext } from "react";
+import Footer from "./components/footer";
 import Header from "./components/header";
-import Skills from "./components/skills";
 import Profile from "./components/profile";
 import Projects from "./components/projects";
-import Footer from "./components/footer";
+import Skills from "./components/skills";
+import { DarkModeContext } from "./contexts/DarkModeContext";
 
 function App() {
+  const { darkMode } = useContext(DarkModeContext);
+  const darkClass = darkMode ? "dark dark:bg-[#252128]" : "";
   return (
     <>
-      <div>
+      <div className={darkClass}>
         <Header />
-      </div>
-      <div>
         <Skills />
-      </div>
-      <div>
         <Profile />
-      </div>
-      <div>
         <Projects />
-      </div>
-      <div>
         <Footer />
       </div>
     </>
