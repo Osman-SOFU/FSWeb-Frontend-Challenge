@@ -1,0 +1,256 @@
+{
+  "en": {
+    "header": {
+      "darkMode": "DARK MODE",
+      "lightMode": "LIGHT MODE",
+      "language": "TÜRKÇE",
+      "languageSuffix": "'YE GEÇ",
+      "languagePrefix": "",
+      "skills": "Skills",
+      "projects": "Projects",
+      "hireMe": "Hire me"
+    },
+    "hero": {
+      "name": "Almila Su",
+      "title": "Creative thinker Minimalism lover",
+      "description": "Hi, I’m Almila. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+      "heroImage": "./../../Assets/Images/hero-right.png",
+      "hireMe": "Hire me",
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://www.linkedin.com",
+        "hireMe": "web page link"
+      }
+    },
+    "skills": {
+      "title": "Skills",
+      "items": [
+        {
+          "name": "JavaScript",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "name": "React.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "name": "Node.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    "profile": {
+      "title": "Profile",
+      "profileInformation": {
+        "title": "Profile",
+        "items": [
+          {
+            "label": "Date of birth",
+            "value": "24.03.1996"
+          },
+          {
+            "label": "City of residence",
+            "value": "Ankara"
+          },
+          {
+            "label": "Educational background",
+            "value": "Hacettepe Ünv.  Biyoloji Lisans, 2016"
+          },
+          {
+            "label": "Preferred role",
+            "value": "Frontend, UI"
+          }
+        ]
+      },
+      "aboutMe": {
+        "title": "About Me",
+        "descriptions": [
+          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
+          "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+        ]
+      }
+    },
+    "projects": {
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Workintech",
+          "image": "./../../Assets/Images/projects-1.png",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "View Site",
+          "links": {
+            "github": "https://github.com",
+            "viewSite": "Project page link"
+          }
+        },
+        {
+          "title": "Random Jokes",
+          "image": "./../../Assets/Images/projects-2.png",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "View Site",
+          "links": {
+            "github": "https://github.com",
+            "viewSite": "Project page link"
+          }
+        },
+        {
+          "title": "Journey",
+          "image": "./../../Assets/Images/projects-3.png",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "View Site",
+          "links": {
+            "github": "https://github.com",
+            "viewSite": "Project page link"
+          }
+        }
+      ]
+    },
+    "footer": {
+      "title": "Let’s work together on your next product.",
+      "mail": "almilasucode@gmail.com",
+      "personalBlog": "Personal Blog",
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "links": {
+        "personalBlog": "web page link",
+        "github": "https://github.com",
+        "linkedin": "https://www.linkedin.com"
+      }
+    }
+  },
+
+  "tr": {
+    "header": {
+      "darkMode": "GECE MODU",
+      "lightMode": "GÜNDÜZ MODU",
+      "language": "ENGLISH",
+      "languageSuffix": "",
+      "languagePrefix": "SWITCH TO ",
+      "skills": "Beceriler",
+      "projects": "Projeler",
+      "hireMe": "İletişim"
+    },
+    "hero": {
+      "name": "Almila Su",
+      "title": "Yaratıcı fikirler Minimalist çözümler",
+      "description": "Merhaba, ben Almila. Ben full-stack geliştiriciyim. Harika kullanıcı deneyimlerine sahip sağlam ve ölçeklenebilir frontend ürünleri tasarlayacak bir geliştirici arıyorsanız. El sıkışalım.",
+      "heroImage": "./../../Assets/Images/hero-right.png",
+      "hireMe": "İletişim",
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://www.linkedin.com"
+      }
+    },
+    "skills": {
+      "title": "Beceriler",
+      "items": [
+        {
+          "name": "JavaScript",
+          "description": "Şehvetten kör olmadıkça çıkmazlar; vazifeyi bırakıp kalplerini yumuşatanlar günahtır, yani zahmettir."
+        },
+        {
+          "name": "React.Js",
+          "description": "Şehvetten kör olmadıkça çıkmazlar; vazifeyi bırakıp kalplerini yumuşatanlar günahtır, yani zahmettir."
+        },
+        {
+          "name": "Node.Js",
+          "description": "Şehvetten kör olmadıkça çıkmazlar; vazifeyi bırakıp kalplerini yumuşatanlar günahtır, yani zahmettir."
+        }
+      ]
+    },
+    "profile": {
+      "title": "Profil",
+      "profileInformation": {
+        "title": "Profil",
+        "items": [
+          {
+            "label": "Doğum tarihi",
+            "value": "24.03.1996"
+          },
+          {
+            "label": "İkamet şehri",
+            "value": "Ankara"
+          },
+          {
+            "label": "Eğitim durumu",
+            "value": "Hacettepe Ünv.  Biyoloji Lisans, 2016"
+          },
+          {
+            "label": "Tercih ettiği rol",
+            "value": "Frontend, UI"
+          }
+        ]
+      },
+      "aboutMe": {
+        "title": "Hakkımda",
+        "descriptions": [
+          "Gerçek şu ki, elitistin yağmalanmasının ana sonucu acıdır. Gelin, yoksa esneklik dışında emeğin her türlü zevkinden nefret eder.",
+          "Bizim en az ücretimiz, akıl ve zevkle açılmaktır? Sözler ne kadar büyük olursa olsun terk ederler!"
+        ]
+      }
+    },
+    "projects": {
+      "title": "Projeler",
+      "items": [
+        {
+          "title": "Workintech",
+          "image": "./../../Assets/Images/projects-1.png",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "Görüntüle",
+          "links": {
+            "github": "https://github.com",
+            "viewSite": "Project page link"
+          }
+        },
+        {
+          "title": "Random Jokes",
+          "image": "./../../Assets/Images/projects-2.png",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "Görüntüle",
+          "links": {
+            "github": "https://github.com",
+            "viewSite": "Project page link"
+          }
+        },
+        {
+          "title": "Journey",
+          "image": "./../../Assets/Images/projects-3.png",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "Görüntüle",
+          "links": {
+            "github": "https://github.com",
+            "viewSite": "Project page link"
+          }
+        }
+      ]
+    },
+    "footer": {
+      "title": "Gelin bir sonraki ürününüzde birlikte çalışalım.",
+      "mail": "almilasucode@gmail.com",
+      "personalBlog": "Kişisel Blog",
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "links": {
+        "personalBlog": "#",
+        "github": "https://github.com",
+        "linkedin": "https://www.linkedin.com"
+      }
+    }
+  }
+}
