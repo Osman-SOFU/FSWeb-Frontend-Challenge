@@ -1,9 +1,9 @@
 import { useContext } from "react";
-import Footer from "./components/Footer.jsx";
-import Header from "./components/Header.jsx";
-import Profile from "./components/Profile.jsx";
-import Projects from "./components/Projects.jsx";
-import Skills from "./components/Skills.jsx";
+import Footer from "./components/footer.jsx";
+import Header from "./components/feader.jsx";
+import Profile from "./components/profile.jsx";
+import Projects from "./components/projects.jsx";
+import Skills from "./components/skills.jsx";
 import { DarkModeContext } from "./contexts/DarkModeContext";
 
 function App() {
