@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import Footer from "./components/footer.jsx";
-import Header from "./components/feader.jsx";
+import Header from "./components/header.jsx";
 import Profile from "./components/profile.jsx";
 import Projects from "./components/projects.jsx";
 import Skills from "./components/skills.jsx";
