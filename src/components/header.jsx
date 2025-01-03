@@ -132,7 +132,11 @@ const Header = () => {
           </div>
         </div>
         <div className="w-3/5 md:w-2/5 min-w-60 order-first md:order-none">
-          <img className="w-full block h-auto" src={apiHero.heroImage} alt="" />
+          <img
+            className="w-full block h-auto rounded-lg"
+            src={apiHero.heroImage}
+            alt=""
+          />
         </div>
       </div>
     </div>

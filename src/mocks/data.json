@@ -11,17 +11,17 @@
       "hireMe": "Hire me"
     },
     "hero": {
-      "name": "Almila Su",
+      "name": "Osman SOFU",
       "title": "Creative thinker Minimalism lover",
-      "description": "Hi, I’m Almila. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
-      "heroImage": "./../../Assets/Images/hero-right.png",
+      "description": "Hi, I’m Osman. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable Full Stack products with great user experiences. Let’s shake hands with me.",
+      "heroImage": "./../../Assets/Images/ProfilFoto.jpeg",
       "hireMe": "Hire me",
       "github": "Github",
       "linkedin": "Linkedin",
       "links": {
-        "github": "https://github.com",
-        "linkedin": "https://www.linkedin.com",
-        "hireMe": "web page link"
+        "github": "https://github.com/Osman-SOFU",
+        "linkedin": "https://www.linkedin.com/in/osman-sofu-046055168/",
+        "hireMe": "https://fs-web-frontend-challenge-eight-tan.vercel.app/"
       }
     },
     "skills": {
@@ -29,15 +29,15 @@
       "items": [
         {
           "name": "JavaScript",
-          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "description": "JavaScript is a programming language used to add interactive features to websites."
         },
         {
           "name": "React.Js",
-          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "description": "React is a component-based JavaScript library used to create user interfaces."
         },
         {
           "name": "Node.Js",
-          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "description": "Node.js is a runtime environment that enables server-side JavaScript execution and is used to develop fast and scalable applications."
         }
       ]
     },
@@ -48,27 +48,26 @@
         "items": [
           {
             "label": "Date of birth",
-            "value": "24.03.1996"
+            "value": "08.03.1995"
           },
           {
             "label": "City of residence",
-            "value": "Ankara"
+            "value": "Sakarya"
           },
           {
             "label": "Educational background",
-            "value": "Hacettepe Ünv.  Biyoloji Lisans, 2016"
+            "value": "Sakarya Unviversity  Environmental Engineer, 2018"
           },
           {
             "label": "Preferred role",
-            "value": "Frontend, UI"
+            "value": "Full Stack Developer"
           }
         ]
       },
       "aboutMe": {
         "title": "About Me",
         "descriptions": [
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
-          "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+          "I am an enthusiastic Full Stack developer with a growth mindset to learn new skills and constantly challenge myself with new challenges. After working as an environmental engineer for around 3 years, I started to become a software developer by completing a 6-month intensive Workintech Full Stack development program. I decided to fulfill my childhood dream to develop myself in Frontend and Backend."
         ]
       }
     },
@@ -76,53 +75,53 @@
       "title": "Projects",
       "items": [
         {
-          "title": "Workintech",
+          "title": "Witflix",
           "image": "./../../Assets/Images/projects-1.png",
-          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "description": "It was created using tools like html, css.I created the Witflix page using the information I learned in the first month of frontend training.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
           "viewSite": "View Site",
           "links": {
-            "github": "https://github.com",
-            "viewSite": "Project page link"
+            "github": "https://github.com/Osman-SOFU/Witflix",
+            "viewSite": "https://witflix-eight.vercel.app/"
           }
         },
         {
-          "title": "Random Jokes",
+          "title": "Pizza Order Website",
           "image": "./../../Assets/Images/projects-2.png",
-          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "description": "It was created using tools like React libraries, javascript, css etc. All the information I learned in the first two months of frontend training was used on the pizza order page.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
           "viewSite": "View Site",
           "links": {
-            "github": "https://github.com",
-            "viewSite": "Project page link"
+            "github": "https://github.com/Osman-SOFU/fsweb-s8-challenge-pizza",
+            "viewSite": "https://fsweb-s8-challenge-pizza-sigma.vercel.app/"
           }
         },
         {
-          "title": "Journey",
+          "title": "Personal Website",
           "image": "./../../Assets/Images/projects-3.png",
-          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "description": "It was created using tools like React libraries, javascript, tailwind css etc. The profile web page project used many of the topics I learned in frontend training.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
           "viewSite": "View Site",
           "links": {
-            "github": "https://github.com",
-            "viewSite": "Project page link"
+            "github": "https://github.com/Osman-SOFU/FSWeb-Frontend-Challenge",
+            "viewSite": "https://fs-web-frontend-challenge-eight-tan.vercel.app/"
           }
         }
       ]
     },
     "footer": {
       "title": "Let’s work together on your next product.",
-      "mail": "almilasucode@gmail.com",
+      "mail": "osofu1903@gmail.com",
       "personalBlog": "Personal Blog",
       "github": "Github",
       "linkedin": "Linkedin",
       "links": {
-        "personalBlog": "web page link",
-        "github": "https://github.com",
-        "linkedin": "https://www.linkedin.com"
+        "personalBlog": "https://fs-web-frontend-challenge-eight-tan.vercel.app/",
+        "github": "https://github.com/Osman-SOFU",
+        "linkedin": "https://www.linkedin.com/in/osman-sofu-046055168/"
       }
     }
   },
@@ -139,16 +138,17 @@
       "hireMe": "İletişim"
     },
     "hero": {
-      "name": "Almila Su",
+      "name": "Osman SOFU",
       "title": "Yaratıcı fikirler Minimalist çözümler",
-      "description": "Merhaba, ben Almila. Ben full-stack geliştiriciyim. Harika kullanıcı deneyimlerine sahip sağlam ve ölçeklenebilir frontend ürünleri tasarlayacak bir geliştirici arıyorsanız. El sıkışalım.",
-      "heroImage": "./../../Assets/Images/hero-right.png",
+      "description": "Merhaba, ben Osman. Ben full-stack geliştiriciyim. Harika kullanıcı deneyimlerine sahip sağlam ve ölçeklenebilir Full Stack ürünleri tasarlayacak bir geliştirici arıyorsanız. El sıkışalım.",
+      "heroImage": "./../../Assets/Images/ProfilFoto.jpeg",
       "hireMe": "İletişim",
       "github": "Github",
       "linkedin": "Linkedin",
       "links": {
-        "github": "https://github.com",
-        "linkedin": "https://www.linkedin.com"
+        "github": "https://github.com/Osman-SOFU",
+        "linkedin": "https://www.linkedin.com/in/osman-sofu-046055168/",
+        "hireMe": "https://fs-web-frontend-challenge-eight-tan.vercel.app/"
       }
     },
     "skills": {
@@ -156,15 +156,15 @@
       "items": [
         {
           "name": "JavaScript",
-          "description": "Şehvetten kör olmadıkça çıkmazlar; vazifeyi bırakıp kalplerini yumuşatanlar günahtır, yani zahmettir."
+          "description": "JavaScript, web sitelerine etkileşimli özellikler eklemek için kullanılan bir programlama dilidir."
         },
         {
           "name": "React.Js",
-          "description": "Şehvetten kör olmadıkça çıkmazlar; vazifeyi bırakıp kalplerini yumuşatanlar günahtır, yani zahmettir."
+          "description": "React, kullanıcı arayüzleri oluşturmak için kullanılan, bileşen tabanlı bir JavaScript kütüphanesidir."
         },
         {
           "name": "Node.Js",
-          "description": "Şehvetten kör olmadıkça çıkmazlar; vazifeyi bırakıp kalplerini yumuşatanlar günahtır, yani zahmettir."
+          "description": "Node.js, sunucu tarafında JavaScript çalıştırmayı sağlayan, hızlı ve ölçeklenebilir uygulamalar geliştirmek için kullanılan bir çalışma ortamıdır."
         }
       ]
     },
@@ -175,27 +175,26 @@
         "items": [
           {
             "label": "Doğum tarihi",
-            "value": "24.03.1996"
+            "value": "08.03.1995"
           },
           {
             "label": "İkamet şehri",
-            "value": "Ankara"
+            "value": "Sakarya"
           },
           {
             "label": "Eğitim durumu",
-            "value": "Hacettepe Ünv.  Biyoloji Lisans, 2016"
+            "value": "Sakarya Üniversitesi Çevre Mühendisliği, 2018"
           },
           {
             "label": "Tercih ettiği rol",
-            "value": "Frontend, UI"
+            "value": "Full Stack Developer"
           }
         ]
       },
       "aboutMe": {
         "title": "Hakkımda",
         "descriptions": [
-          "Gerçek şu ki, elitistin yağmalanmasının ana sonucu acıdır. Gelin, yoksa esneklik dışında emeğin her türlü zevkinden nefret eder.",
-          "Bizim en az ücretimiz, akıl ve zevkle açılmaktır? Sözler ne kadar büyük olursa olsun terk ederler!"
+          "Yeni beceriler edinmek ve kendimi sürekli olarak yeni zorluklarla geliştirmek için büyüme zihniyetine sahip, hevesli bir Full Stack geliştiriciyim. Ortalama 3 yıl çevre mühendisi olarak çalıştıktan sonra, 6 aylık yoğun bir Workintech Full Stack geliştirme programını tamamlayarak bir yazılım geliştiricisi olmaya başladım. Kendimi Frontend ve Backend de geliştirmek için çocukluk hayalimi gerçekleştirmeye karar verdim."
         ]
       }
     },
@@ -203,53 +202,53 @@
       "title": "Projeler",
       "items": [
         {
-          "title": "Workintech",
+          "title": "Witflix",
           "image": "./../../Assets/Images/projects-1.png",
-          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "description": "HTML, CSS gibi araçlar kullanılarak oluşturuldu. Witflix sayfasını frontend eğitimimin ilk ayında öğrendiğim bilgileri kullanarak oluşturdum.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
           "viewSite": "Görüntüle",
           "links": {
-            "github": "https://github.com",
-            "viewSite": "Project page link"
+            "github": "https://github.com/Osman-SOFU/Witflix",
+            "viewSite": "https://witflix-eight.vercel.app/"
           }
         },
         {
-          "title": "Random Jokes",
+          "title": "Pizza Order Website",
           "image": "./../../Assets/Images/projects-2.png",
-          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "description": "React kütüphaneleri, javascript, css vb. araçlar kullanılarak oluşturuldu. Frontend eğitimimin ilk iki ayında öğrendiğim tüm bilgiler pizza sipariş sayfasında kullanıldı.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
           "viewSite": "Görüntüle",
           "links": {
-            "github": "https://github.com",
-            "viewSite": "Project page link"
+            "github": "https://github.com/Osman-SOFU/fsweb-s8-challenge-pizza",
+            "viewSite": "https://fsweb-s8-challenge-pizza-sigma.vercel.app/"
           }
         },
         {
-          "title": "Journey",
+          "title": "Personal Website",
           "image": "./../../Assets/Images/projects-3.png",
-          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "description": "React kütüphaneleri, javascript, tailwind css vb. araçlar kullanılarak oluşturuldu. Profil web sayfası projesinde frontend eğitiminde öğrendiğim birçok konu kullanıldı.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
           "viewSite": "Görüntüle",
           "links": {
-            "github": "https://github.com",
-            "viewSite": "Project page link"
+            "github": "https://github.com/Osman-SOFU/FSWeb-Frontend-Challenge",
+            "viewSite": "https://fs-web-frontend-challenge-eight-tan.vercel.app/"
           }
         }
       ]
     },
     "footer": {
       "title": "Gelin bir sonraki ürününüzde birlikte çalışalım.",
-      "mail": "almilasucode@gmail.com",
+      "mail": "osofu1903@gmail.com",
       "personalBlog": "Kişisel Blog",
       "github": "Github",
       "linkedin": "Linkedin",
       "links": {
         "personalBlog": "#",
-        "github": "https://github.com",
-        "linkedin": "https://www.linkedin.com"
+        "github": "https://github.com/Osman-SOFU",
+        "linkedin": "https://www.linkedin.com/in/osman-sofu-046055168/"
       }
     }
   }
