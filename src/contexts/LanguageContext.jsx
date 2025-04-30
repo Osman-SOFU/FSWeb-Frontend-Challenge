@@ -20,12 +20,9 @@ export const LanguageProvider = ({ children }) => {
     setLoading(true);
     setError(null);
     try {
-      const response = await axios.post(
-        "https://reqres.in/api/osmansofu",
-        data
-      );
-      if (response.data[language]) {
-        setApiData(response.data[language]);
+      // API isteği yerine yerel mock veriyi kullan
+      if (data[language]) {
+        setApiData(data[language]);
       } else {
         throw new Error(`Dil verisi bulunamadı: ${language}`);
       }
